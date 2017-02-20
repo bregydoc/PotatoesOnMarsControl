@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/core/0.9.1.0/jars/classes.jar"
+        revision="25.0.2"
+        sha1="16795a75616fe3ba9df9ae4af09202145e3a26dc">
+        <dex dex="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-725f4f6bb1cc5c89b994da6385b4e21e1f3f33f7.jar" />
+    </item>
+    <item
+        jar="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        revision="25.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-2940bfe6e97a9f4dc74a0e466eac61b9a5e58f3b.jar" />
+    </item>
+    <item
+        jar="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-1c7d1b7d7723828db1d255385d4ef922917754b0.jar" />
+    </item>
+    <item
+        jar="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        revision="25.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-54da623a7d709efd1662186c29c9b3a02127213a.jar" />
+    </item>
+    <item
+        jar="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.1/jars/classes.jar"
+        revision="25.0.2"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-cf1c388adcfecd0221c48c4a4170ddc6a48a6c6a.jar" />
+    </item>
+    <item
+        jar="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/exploded-aar/me.zhanghai.android.materialprogressbar/library/1.3.0/jars/classes.jar"
+        revision="25.0.2"
+        sha1="a846ddbf5bf88dee5f89d4dffe22c864f576d9b0">
+        <dex dex="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-81e33ed1e71177364ce6cc8a457849d1a08ed075.jar" />
+    </item>
+    <item
+        jar="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-972b615924f35a7ae6862da8424053845b7a428f.jar" />
+    </item>
+    <item
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-25.1.1-acaaabd111fb39ccce6bdadc5542d5003dd7533d.jar" />
+    </item>
+    <item
+        jar="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        revision="25.0.2"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-d08be329883959513bc67781a322e60e41d09a22.jar" />
+    </item>
+    <item
+        jar="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-57c837c222d1bd0a8ffecebf0bee526dd0634fa0.jar" />
+    </item>
+    <item
+        jar="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-341662c1dbe932001cec1f2a8ddc3af0a1561e69.jar" />
+    </item>
+    <item
+        jar="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-b0d9dec4cc3351d3bd7a06dabeeb4625593e8da8.jar" />
+    </item>
+    <item
+        jar="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        revision="25.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-0a32f3dcb5b3b140dcfc6ee1643458969194e73a.jar" />
+    </item>
+    <item
+        jar="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        revision="25.0.2"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-30f80ba375b014e5c5e48924985c083519048211.jar" />
+    </item>
+    <item
+        jar="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/exploded-aar/com.afollestad.material-dialogs/commons/0.9.1.0/jars/classes.jar"
+        revision="25.0.2"
+        sha1="5b398ff8f4e91cf9ef306241b78667870b9c3a06">
+        <dex dex="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-0a3842cbbbb992555d3fd2cf02a75ff54a482610.jar" />
+    </item>
+    <item
+        jar="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        revision="25.0.2"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-95782cd57261f7f3e1c5c079a1554820c322dec9.jar" />
+    </item>
+    <item
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.10.2/33ee82e324f4b1e40167f3dc5e01234a1c5cab61/jsoup-1.10.2.jar"
+        revision="25.0.2"
+        sha1="33ee82e324f4b1e40167f3dc5e01234a1c5cab61">
+        <dex dex="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/jsoup-1.10.2-065b07e6e4717b48a8cebd11de3bb8c0174fdb41.jar" />
+    </item>
+    <item
+        jar="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/exploded-aar/com.google.firebase/firebase-core/9.6.1/jars/classes.jar"
+        revision="25.0.2"
+        sha1="c0a55645abdd665994dc7fa1879b047c083f67b2">
+        <dex dex="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-d84b13cdfbb73e03184408b627452eee7b3760b2.jar" />
+    </item>
+    <item
+        jar="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
+        revision="25.0.2"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-3f0414d8cc4e48f9a3efcc418238645427331824.jar" />
+    </item>
+    <item
+        jar="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.1/jars/classes.jar"
+        revision="25.0.2"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-93be3f54653c3094e57f99e4a7def9b8f194495d.jar" />
+    </item>
+    <item
+        jar="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-0e15d24a22540bad6e36eb00dc811206b16e25a3.jar" />
+    </item>
+    <item
+        jar="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-59d1b04e7ef3a53237505bf2d781ec9f98aafb1c.jar" />
+    </item>
+    <item
+        jar="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-41d8b1630327d83603eb61a173fd2bbb09627b42.jar" />
+    </item>
+    <item
+        jar="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        revision="25.0.2"
+        sha1="67355078cd30daae43f62ba47a4663ee6edb976e">
+        <dex dex="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/internal_impl-25.0.0-da7eeb5258b57d81a37f7b155aac612c611a7221.jar" />
+    </item>
+    <item
+        jar="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.0/jars/classes.jar"
+        revision="25.0.2"
+        sha1="6ac094121e75b4b87432beb9305d70c68ec6dcab">
+        <dex dex="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-119723618ba2ab34e0ce1b1c6bc32aff1513c226.jar" />
+    </item>
+    <item
+        jar="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/bregy/Documents/MarsWeatherSimulator/PotatoOnMars/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-02ef7bc0abf24fd6fe3222432fff26ded8215496.jar" />
+    </item>
+
+</items>
