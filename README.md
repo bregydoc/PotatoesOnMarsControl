@@ -1,2 +1,2 @@
-# PotatosOnMarsControl
+# PotatoesOnMarsControl
 v2.0
